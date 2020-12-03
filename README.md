@@ -1,4 +1,4 @@
-# NLU_2
+# NLU 2nd lecture project in collaboration with Martina, Christina and Virginia
 
 ## Requirements
 - Python3 (3.7)
