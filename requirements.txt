@@ -1,0 +1,9 @@
+tensorflow
+keras
+pandas
+numpy
+scipy
+gensim
+scikit-learn
+nltk
+theano
